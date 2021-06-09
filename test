@@ -1,9 +1,0 @@
----
-date: "2021-06-08"
-title: "Threat Model"
-Name: Threat Model Name
-Description: Threat Model Description
----
-
-# New File
-
