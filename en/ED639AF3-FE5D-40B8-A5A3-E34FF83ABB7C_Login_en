@@ -1,0 +1,20 @@
+[NAME]
+Login
+
+[COMPONENT_TYPE_GUID]
+B68FB342-1D17-4B2D-93D7-20750056F58A
+
+[DESCRIPTION]
+This component can be used to represent Login functionality of an application
+
+[IMAGE_PATH]
+/ComponentImage/login2.png
+
+[LABELS]
+ThreatModeler,AppSec and InfraSec,Login
+
+[HIDDEN]
+false
+
+[LIBRARY_GUID]
+EEF7DCF9-53BD-48E9-849D-21445EBAD101
