@@ -19,7 +19,10 @@ false
 [**LIBRARY_GUID**]
 EEF7DCF9-53BD-48E9-849D-21445EBAD101
 
-[**THREATS_MAPPINGS**]
+[**THREATS_MAPPING**]
 [SQL Injection through SOAP Parameter Tampering](Threats/65F5CF6F-6076-4AB3-A62A-F23E8BDECA9D_en.md)\
-[SQL Injection through SOAP Parameter Tampering2](Threats/65F5CF6F-6076-4AB3-A62A-F23E8BDECA9D_en.md)
+[Brute Force](Threats/8C8F68FF-8617-4AE4-9808-DE4CB3FE1EFA_en.md)
 
+
+[**SECURITYREQUIREMENTS_MAPPING**]
+[Input Validation for database querying](SecurityRequirements/306CAB7E-68E2-45D1-BA99-61918B297A6F_en.md)
