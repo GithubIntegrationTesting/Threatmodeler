@@ -1,0 +1,26 @@
+[NAME]
+COMPONENTGithubTesting2
+
+[COMPONENT_TYPE_GUID]
+{{COMPONENT_TYPE_GUID}}
+
+[DESCRIPTION]
+<p><b>Dummy Description for Github Testing</b></p><p><b><br /></b></p><ul><li>Hello1</li><li>Hello2</li><li>Hello3</li></ul>
+
+[IMAGE_PATH]
+{{IMAGE_PATH}}
+
+[LABELS]
+Clickjacking
+
+[HIDDEN]
+{{HIDDEN}}
+
+[LIBRARY_GUID]
+{{LIBRARY_GUID}}
+
+[THREATS_MAPPING]
+{{THREATS_MAPPING}}
+
+[SECURITYREQUIREMENTS_MAPPING]
+{{SECURITYREQUIREMENTS_MAPPING}}
