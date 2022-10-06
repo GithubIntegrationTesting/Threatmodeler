@@ -18,3 +18,4 @@ EEF7DCF9-53BD-48E9-849D-21445EBAD101
 
 [**SECURITYREQUIREMENTS_MAPPING**]\
 [Input Validation for database querying](SecurityRequirements/306CAB7E-68E2-45D1-BA99-61918B297A6F_en.md)
+[Input Validation for database querying2](SecurityRequirements/306CAB7E-68E2-45D1-BA99-61918B297A6F_en.md)
